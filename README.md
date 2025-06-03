@@ -1,1 +1,1 @@
-Course expert tool to efficiently retrieve data about course offerings at UND... this is NOT kned. This was first tool testing stuff out like right away for a week or two during school. Left out a bunch of scraping stuff, etc
+Course expert tool to efficiently retrieve data about course offerings at UND... this is NOT kned. This was first tool testing stuff out like right away for a week or two during school. Just used text2sql on db of courses we scraped
